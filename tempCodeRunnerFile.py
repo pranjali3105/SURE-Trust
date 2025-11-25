@@ -1,0 +1,1 @@
+df['status'].value_counts()
